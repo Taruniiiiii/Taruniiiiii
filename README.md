@@ -75,3 +75,6 @@ I consistently build and ship projects through hackathons and technical competit
   <img alt="Pac-Man GitHub Contributions" src="output/pacman-contribution-graph.svg" width="700">
 </picture>
 </div>
+<div align="center">
+  <img src="output/pacman-contribution-graph-dark.svg" width="800" alt="GitHub Pac-Man Contributions"/>
+</div>
