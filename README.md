@@ -52,11 +52,9 @@ I consistently build and ship projects through hackathons and technical competit
 ## Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter&logoColor=white" height="28"/></a>
   <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/></a>
-  <a href="https://signal.org/"><img src="https://img.shields.io/badge/Signal-Contact-039BE5?style=for-the-badge&logo=signal&logoColor=white" height="28"/></a>
 </div>
 
 
@@ -67,24 +65,13 @@ I consistently build and ship projects through hackathons and technical competit
 </div>
 
 ---
+<div align="center">
+  <img src="output/pacman-contribution-graph-dark.svg" width="700" alt="GitHub Contributions"/>
+</div>
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man GitHub Contributions" src="output/pacman-contribution-graph.svg" width="700">
 </picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taruniiiiii/Taruniiiiii/output/pacman-contribution-graph.svg">
-</picture>
+</div>
