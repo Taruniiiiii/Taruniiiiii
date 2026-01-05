@@ -65,16 +65,3 @@ I consistently build and ship projects through hackathons and technical competit
 </div>
 
 ---
-<div align="center">
-  <img src="output/pacman-contribution-graph-dark.svg" width="700" alt="GitHub Contributions"/>
-</div>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man GitHub Contributions" src="output/pacman-contribution-graph.svg" width="700">
-</picture>
-</div>
-<div align="center">
-  <img src="output/pacman-contribution-graph-dark.svg" width="800" alt="GitHub Pac-Man Contributions"/>
-</div>
